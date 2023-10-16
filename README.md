@@ -6,7 +6,7 @@ I have a tremendous love for developing websites that are both attractive and us
 ## 🌱 Currently learning
 
 I'm now concentrating on improving my knowledge of Node JS and React JS. I'm eager to grasp these technologies because they are at the cutting edge of contemporary web development.
-## Here's Some of the project I did practices
+## Here's few project of mine
 - Re-creation of Fintech Template In React+Tailwind - https://myfintechweb.web.app/
 - Todo App React+Redux+Bootstrap - https://redux-todo-list-j25a5nki.web.app/auth
 - Search GitHub Profile - https://janki254.github.io/Search-Github-Profile/
