@@ -8,6 +8,7 @@ I have a tremendous love for developing websites that are both attractive and us
 I'm now concentrating on improving my knowledge of Node JS and React JS. I'm eager to grasp these technologies because they are at the cutting edge of contemporary web development.
 ## Here's few project of mine
 - Re-creation of Fintech Template In React+Tailwind - https://myfintechweb.web.app/
+- Movie App React+MUI - https://react-movie-e7no16dj6-janki014.vercel.app/
 - Todo App React+Redux+Bootstrap - https://redux-todo-list-j25a5nki.web.app/auth
 - Food Ordering App React Hooks + React Context API - https://food-odering-react-app.vercel.app/
 - Search GitHub Profile - https://janki254.github.io/Search-Github-Profile/
