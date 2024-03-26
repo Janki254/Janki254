@@ -9,7 +9,8 @@ I'm now concentrating on improving my knowledge of Node JS and React JS. I'm eag
 ## Here's few project of mine
 - Re-creation of Fintech Template In React+Tailwind - https://myfintechweb.web.app/
 - Movie App React+MUI - https://react-movie-e7no16dj6-janki014.vercel.app/
-- Food Ordering App React Hooks + React Context API - https://food-odering-react-app.vercel.app/
+- Food Ordering App with React Hooks + React Context API - https://food-odering-react-app.vercel.app/
+- Expense Tracker App with  React and React Hook - https://expense-tracker-app-peach.vercel.app/
 - Search GitHub Profile - https://janki254.github.io/Search-Github-Profile/
 - Create Pokemon Cards - https://janki254.github.io/Creating-Pokemon-Cards/
 - Hidden Search box - https://janki254.github.io/Hidden-Searchbox/
